@@ -15,5 +15,8 @@
     "url": "https://github.com/predic8/test-packages-docker/issues"
   },
   "homepage": "https://github.com/predic8/test-packages-docker#readme",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+    "predic8:registry": "https://npm.pkg.github.com"
+  }
 }
