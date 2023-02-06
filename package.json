@@ -17,6 +17,6 @@
   "homepage": "https://github.com/predic8/test-packages-docker#readme",
   "description": "",
   "publishConfig": {
-    "predic8:registry": "https://npm.pkg.github.com"
+    "@predic8:registry": "https://npm.pkg.github.com"
   }
 }
