@@ -1,5 +1,5 @@
 {
-  "name": "test-packages-docker",
+  "name": "@predic8/test-packages-docker",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
